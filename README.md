@@ -9,8 +9,8 @@ La ecuación de la función de onda del átomo de hidrógeno es:
 $$
 \psi_{n,l,m}(r, \theta, \varphi) = \sqrt{\left( \frac{2}{n b_r} \right)^3 \frac{(n - l - 1)!}{2n[(n + l)!]}} e^{-r/nb_r} \left( \frac{2r}{n b_r} \right)^l L_{n-l-1}^{2l+1} · Y_l^m (\theta, \varphi)
 $$
-donde:
 
+donde:
 $$
 \begin{aligned}
 &{n, l, m} \quad \text{son los números cuánticos,} \\
