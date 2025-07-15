@@ -15,7 +15,7 @@ donde:
 $$
 \begin{aligned}
 &{n, l, m} \quad \text{son los números cuánticos,} \\
-& r, \, \theta, \, \varphi \quad \text{son las coordenadas esféricas,} \\
+& r, \ \theta, \ \varphi \quad \text{son las coordenadas esféricas,} \\
 & b_r \quad \text{es el radio de Bohr,} \\
 & L_{n-l-1}^{2l+1} \quad \text{es un polinomio de Laguerre,} \\
 & Y_l^m (\theta, \varphi) \quad \text{es una función esférica armónica.}
