@@ -11,11 +11,12 @@ $$
 $$
 
 donde:
-* $ {n, l, m} $ son los números cuánticos,
-- $ r $, $ \theta $, y $ \varphi $ son las coordenadas esféricas,
-- $ b_r $ es el radio de Bohr,
-- $ L_{n-l-1}^{2l+1} $ es un polinomio de Laguerre,
-- $ Y_l^m (\theta, \varphi) $ es una función esférica armónica.
+- \( {n, l, m} \) son los números cuánticos,
+- \( r \), \( \theta \), y \( \varphi \) son las coordenadas esféricas,
+- \( b_r \) es el radio de Bohr,
+- \( L_{n-l-1}^{2l+1} \) es un polinomio de Laguerre,
+- \( Y_l^m (\theta, \varphi) \) es una función esférica armónica.
+
 
 ---
 
