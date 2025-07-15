@@ -11,6 +11,7 @@ $$
 $$
 
 donde:
+
 $$
 \begin{aligned}
 &{n, l, m} \quad \text{son los números cuánticos,} \\
